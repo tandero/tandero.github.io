@@ -27,18 +27,18 @@ I collect and analyze self-report, behavioural, physiological, and neuroimaging 
 
 I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take particular joy in designing experiment; it is an exercise in reducing inefficiencies and I love it.
 
-<a href=../attachments/CV_ThomasAnderson.pdf target="_blank">Download my CV</a> for the concise summary.
+[Read my CV](https://1drv.ms/b/s!Avbd3naclSvRgYkflsH-JkHcCr6epQ) for the concise summary.
 
 ### A brief timeline of my personal universe
 
 * 1988 Conceived to the surprise of everyone involved  
 * 1995 Recruited to gifted/enrichment program  
-* 1999 Win Academic Excellence award  
-* 2005 Win Communications Technology award  
-* 2006 Begin Bachelor's degree at University of Waterloo for Software Engineering  
+* 1999 Academic Excellence award  
+* 2005 Communications Technology award  
+* 2006 Begin Bachelor's degree at University of Waterloo in Software Engineering  
 * 2008 Employed at Electronic Arts making video games (a childhood dream achieved)  
 * 2010 Change majors into Psychology; begin work in an EEG/ERP and eye-tracking lab  
-* 2012 Graduate with BA in Psychology with Computer Science minor  
+* 2012 Complete BA in Psychology with Computer Science minor  
 * 2013 First presentation at a scientific conference on stage at Visions Sciences Society  
 * 2014 Publish BA thesis research in Neuroimage  
 * 2015 Begin Master's degree at University of Toronto in Psychology  
@@ -52,10 +52,10 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 Not that it's anyone's business, but here are a few things about me.
 
 * I love dark chocolate, more than 85% and ideally 100%. [Chocosol](https://chocosoltraders.com/collections/shop-now/products/100-gratitude-csbar) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
-* I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my shop of choice.  
+* I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
 * I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I also like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
 * I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
-* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&feature=youtu.be&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [NordVPN](https://nordvpn.com/).  
+* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [NordVPN](https://nordvpn.com/).  
 
 
 
