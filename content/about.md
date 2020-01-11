@@ -7,8 +7,7 @@ menu = "main"
 weight = "2"
 +++
 
-<img align="right" width="400" height="400" src="../resources/icon.jpg">
-image: "resources/icon.jpg"
+<!-- <img align="right" width="180" height="330" src="../attachments/icon.png"> Comment --> 
 
 ### In two words
 
