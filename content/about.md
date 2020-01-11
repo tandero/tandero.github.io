@@ -13,15 +13,15 @@ weight = "2"
 
 Meticulous polymath
 
-### In fifteen seconds or less
+### In twenty seconds
 
-PhD candidate at the University of Toronto studying meta-awareness. Co-Founder of the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca) pioneering research on psychedelic microdosing. Side-projects on mediation, creativity, wisdom, and attention. Strong focus on rigour and transparency.
+PhD candidate at the University of Toronto studying meta-awareness and attention. Co-Founder of the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca) pioneering research on psychedelic microdosing. Side-projects on mediation, creativity, wisdom, and attention. Strong focus on rigour and transparency.
 
-### In about five minutes
+### In ninety seconds
 
 My PhD supervisor is [Prof. Norman Farb](https://www.utm.utoronto.ca/psychology/faculty-staff/farb-norman) in the [Regulatory and Affective Dynamics Laboratory](https://www.radlab.zone/). My PhD committee includes [Prof. Michael Inzlicht](http://michaelinzlicht.com/)  (social neuroscientist) and [Prof. Kei Fukuda](https://www.utm.utoronto.ca/psychology/faculty-staff/fukuda-keisuke) (cognitive neuroscientist).
 
-I am developing neuroanalytic methods aimed at studying meta-awareness: the moment that we realize that our behaviours are not in alignment with our overall goals. The clearest example of this is when we catch outselves unintentionally mind-wandering even though our goal is to pay attention to the task at hand. 
+I am developing neuroanalytic methods aimed at studying meta-awareness: the moment that we realize that our behaviours are not aligned with our overall goals. The clearest example of this is when we catch outselves unintentionally mind-wandering even though our goal is to pay attention to the task at hand. 
 
 I collect and analyze self-report, behavioural, physiological, and neuroimaging (MRI, fNIRS, EEG) data. I'm ultimately trying to model how 1.5 kg of fatty brain-tissue consciously experiences a universe, but for now I take baby steps toward answering those big questions. My PhD attempts to develop tools for modelling the neural dynamics of attention and meta-awareness: objectively quantifying the subjective.
 
@@ -31,7 +31,7 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 
 ### A brief timeline of my personal universe
 
-* 1988 Conceived to the surprise of everyone involved  
+* 1988 Conceived, to the surprise of everyone involved  
 * 1995 Recruited to gifted/enrichment program  
 * 1999 Academic Excellence award  
 * 2005 Communications Technology award  
