@@ -1,0 +1,102 @@
+baseURL = "https://hungry-hoover-b55c93.netlify.com/"
+languageCode = "en-us"
+title = "Thomas Anderson"
+theme = "minimal"
+googleAnalytics = "UA-23777282-2"
+enableEmoji = true # https://www.webfx.com/tools/emoji-cheat-sheet/
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R"]
+
+#blogdown::serve_site()
+
+[params]
+    author = "Thomas Anderson"
+    description = "Ph.D. Candidate, Cognitive Neuroscience, Research Director, Psychedelic Studies Research Program, Department of Psychology, University of Toronto"
+    githubUsername = "tandero"
+    accent = "#cc00cc"  # colour #2B7EDC
+    showBorder = true
+    backgroundColor = "white"
+    font = "EB Garamond" # should match the name on Google Fonts! "Lato"
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r", "python"]
+
+# https://gohugo.io/content-management/formats/#blackfriday-options
+[blackfriday] # https://discourse.gohugo.io/t/solved-how-to-prevent-a-text-character-from-being-transformed/13850/3
+    hrefTargetBlank = true # open external links in new page
+    plainIDAnchors = true
+    smartypants = false
+    fractions = false # slash don't get converted to fraction
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+# [[menu.main]]
+    # url = "/post/"
+    # name = "Posts"
+    # weight = 2
+
+# [[menu.main]]
+    # url = "/project/"
+    # name = "Projects"
+    # weight = 3
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:thomas.anderson@radlab.zone"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://scholar.google.com/citations?user=3xIkXusAAAAJ"
+    name = "google"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/mrthomasanderson"
+    name = "linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.researchgate.net/profile/Thomas_Anderson10"
+    name = "flask"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.reddit.com/user/oredna/"
+    name = "reddit"
+    weight = 5
+
+[[menu.icon]]
+    url = "https://psychedelicscience.ca"
+    name = "black-tie"
+    weight = 6
+
+[[menu.icon]]
+    url = "https://twitter.com/tandero/"
+    name = "twitter"
+    weight = 7
+
+#[[menu.icon]]
+#    url = "https://www.goodreads.com/user/show/19428451-thomas"
+#    name = "goodreads"
+#    weight = 7
+
+#[[menu.icon]]
+#    url = "https://www.researchgate.net/profile/Thomas_Anderson10"
+#    name = "researchgate"
+#    weight = 6
+
+#[[menu.icon]]
+#    url = "https://github.com/tandero/"
+#    name = "github"
+#    weight = 5
+
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/hsl/"
+#    name = "stack-overflow"
+#    weight = 4
