@@ -13,13 +13,7 @@ weight = "1"
 I'm finishing my PhD at the University of Toronto, ambitiously aiming to be done by August 2020. I study meta-awareness and attention for my primary PhD work.  
 I also study [psychedelic microdosing](https://psychedelicscience.ca) and we published some of the first research on the topic. We hope to begin our clinical trial in early 2020.
 
-### Where am I headed tomorrow?
-
-
-
-### But, how do I spend my days, specifically, in detail?
-
-
+<!--### Where am I headed tomorrow? -->
 
 
 ### Courses I'm currently engaging
