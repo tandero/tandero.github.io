@@ -13,6 +13,8 @@ weight = "1"
 I'm finishing my PhD at the University of Toronto, ambitiously aiming to be done by August 2020. I study meta-awareness and attention for my primary PhD work.  
 I also study [psychedelic microdosing](https://psychedelicscience.ca) and we published some of the first research on the topic. We hope to begin our clinical trial in early 2020.
 
+I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) in December 2019 that's got some background and recent thoughts.
+
 <!--### Where am I headed tomorrow? -->
 
 
