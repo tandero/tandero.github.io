@@ -44,7 +44,8 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 * 2015 Begin Master's degree at University of Toronto in Psychology  
 * 2016 Begin PhD studies at University of Toronto in Psychology  
 * 2017 Begin research on psychedlic microdosing  
-* 2019 Co-found [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca)  
+* 2019 Co-found [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto  
+* 2020 Co-found [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker) 
 
 
 ### My Personal Life
@@ -55,14 +56,15 @@ Not that it's anyone's business, but here are a few things about me. I adore dec
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
 * I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I also like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
 * I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
-* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). If the glove fits...  
+* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My three pairs have served me well.   
+* I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the K-Sabatier Authentique 1834 Ltd.  
 * I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [NordVPN](https://nordvpn.com/).  
 
 
 
 ### This Website
 
-This site is powered by Hugo [Minimal](https://themes.gohugo.io/minimal/) theme and made in R using the package [`blogdown`](https://bookdown.org/yihui/blogdown/). It is hosted and deployed with [Netlify](https://www.netlify.com/).
+This site is powered by Hugo [Minimal](https://themes.gohugo.io/minimal/) theme and made in R using the package [`blogdown`](https://bookdown.org/yihui/blogdown/). It is hosted and deployed with [Netlify](https://www.netlify.com/) and the domain was purchased through [GoDaddy](https://ca.godaddy.com/).
 
-I based it on [Hause Lin](https://hauselin.com)'s website, a friend and colleague of mine. Hause does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools. 
+This website was inspired by [Derek Sivers](https://sivers.org/)' website and the code was based on [Hause Lin](https://hauselin.com)'s website. Hause is a friend and colleague of mine who does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools. 
 
