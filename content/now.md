@@ -22,3 +22,4 @@ I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditatio
 
 * [Understanding Investments](https://www.thegreatcourses.com/courses/understanding-investments.html)
 * [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)
+* [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)
