@@ -25,7 +25,7 @@ I am developing neuroanalytic methods aimed at studying meta-awareness: the mome
 
 I collect and analyze self-report, behavioural, physiological, and neuroimaging (MRI, fNIRS, EEG) data. I'm ultimately trying to model how 1.5 kg of fatty brain-tissue consciously experiences a universe, but for now I take baby steps toward answering those big questions. My PhD attempts to develop tools for modelling the neural dynamics of attention and meta-awareness: objectively quantifying the subjective.
 
-I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take particular joy in designing experiment; it is an exercise in reducing inefficiencies and I love it.
+I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take particular joy in designing experiments; it is an exercise in reducing inefficiencies and I love it.
 
 [Read my CV](https://1drv.ms/b/s!Avbd3naclSvRgYkflsH-JkHcCr6epQ) for the concise summary (link may not work if you're on a VPN).
 
