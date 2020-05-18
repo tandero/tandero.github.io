@@ -13,6 +13,7 @@ I've been learning through [The Great Courses](https://www.thegreatcourses.com/)
 
 #### Recently completed
 
+* [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/) (Coursera)
 * [Understanding Investments](https://www.thegreatcourses.com/courses/understanding-investments.html)
 * [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?) (Coursera)
 * [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions) (Coursera)
