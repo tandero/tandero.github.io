@@ -13,6 +13,7 @@ weight = "1"
 <!-- <img align="right" width="300" height="300" src="../attachments/Icon.jpg"> Comment --> 
 
 I'm finishing my PhD at the University of Toronto. I had been ambitiously aiming to graduate August 2020, but with my neuroimaging research on hold due to COVID, my new estimate is wider: December 2020 to August 2021.  
+
 I study meta-awareness and attention for my primary PhD work. See my [about page](../about) for more on that.  
 I also study [psychedelic microdosing](https://psychedelicscience.ca) and published some of the first research on the topic. We had hoped to begin our clinical trial in summer 2020; stay tuned. I also consult for a mushroom life-sciences company called [Cybin](https://cybin.com).
 
