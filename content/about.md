@@ -7,15 +7,13 @@ menu = "main"
 weight = "2"
 +++
 
-<!-- <img align="right" width="180" height="330" src="../attachments/icon.png"> Comment --> 
-
 ### In two words
 
 Meticulous polymath
 
 ### In twenty seconds
 
-PhD candidate at the University of Toronto studying meta-awareness and attention. Co-Founder of the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca) pioneering research on psychedelic microdosing. Side-projects on mediation, creativity, wisdom, and attention. Strong focus on rigour and transparency.
+PhD candidate at the University of Toronto studying meta-awareness and attention. Co-Founder of the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) pioneering research on psychedelic microdosing. Side-projects on mediation, creativity, wisdom, and attention. Strong focus on rigour and transparency.
 
 ### In ninety seconds
 
@@ -45,7 +43,7 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 * 2016 Begin PhD studies at University of Toronto in Psychology  
 * 2017 Begin research on psychedlic microdosing  
 * 2019 Co-found [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto  
-* 2020 Co-found [Toronto Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker) 
+* 2020 Co-found [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker) 
 
 
 ### My Personal Life
