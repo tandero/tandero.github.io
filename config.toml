@@ -5,7 +5,7 @@ theme = "minimal"
 googleAnalytics = "UA-158662496-1"
 enableEmoji = true # https://www.webfx.com/tools/emoji-cheat-sheet/
 #ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R"]
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R", "\\.knit\\.md$", "\\.utf8\\.md$"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 #blogdown::serve_site()
 
@@ -13,7 +13,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "scratch.md", "scratch.Rmd
     author = "Thomas Anderson"
     description = "Ph.D. Candidate, Cognitive Neuroscience, Research Director, Psychedelic Studies Research Program, Department of Psychology, University of Toronto"
     githubUsername = "tandero"
-    accent = "#c4525c"  # colour #2B7EDC
+    #accent = "#c4525c"  # colour #2B7EDC
+    accent = "red"  # colour #2B7EDC
     showBorder = true
     backgroundColor = "white"
     font = "EB Garamond" # should match the name on Google Fonts! "Lato"
