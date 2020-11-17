@@ -1,4 +1,4 @@
-baseURL = "https://hungry-hoover-b55c93.netlify.com/"
+baseURL = "https://www.thomasanderson.ca" #"https://hungry-hoover-b55c93.netlify.com/"
 languageCode = "en-us"
 title = "Thomas Anderson"
 theme = "minimal"
