@@ -23,11 +23,11 @@ enableEmoji = true # https://www.webfx.com/tools/emoji-cheat-sheet/
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r", "python"]
 
 # https://gohugo.io/content-management/formats/#blackfriday-options
-[blackfriday] # https://discourse.gohugo.io/t/solved-how-to-prevent-a-text-character-from-being-transformed/13850/3
-    hrefTargetBlank = true # open external links in new page
-    plainIDAnchors = true
-    smartypants = false
-    fractions = false # slash don't get converted to fraction
+#[blackfriday] # https://discourse.gohugo.io/t/solved-how-to-prevent-a-text-character-from-being-transformed/13850/3
+    #hrefTargetBlank = true # open external links in new page
+    #plainIDAnchors = true
+    #smartypants = false
+    #fractions = false # slash don't get converted to fraction
 
 [[menu.main]]
     url = "/"
