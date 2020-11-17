@@ -4,7 +4,7 @@ page = "static/single.html"
 title = "Publications"
 description = "why don't I have a publications page?"
 menu = "main"
-weight = "4"
+weight = "5"
 +++
 
 We live in a modern world! I'm not going to update this website whenever I publish something!

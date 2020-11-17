@@ -4,7 +4,8 @@ title = "Thomas Anderson"
 theme = "minimal"
 googleAnalytics = "UA-158662496-1"
 enableEmoji = true # https://www.webfx.com/tools/emoji-cheat-sheet/
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "scratch.md", "scratch.Rmd", "scratch.R", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 #blogdown::serve_site()
 
