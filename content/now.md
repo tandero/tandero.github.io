@@ -12,7 +12,7 @@ weight = "1"
 
 <!-- <img align="right" width="300" height="300" src="../attachments/Icon.jpg"> Comment --> 
 
-I'm finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has delayed me to August 2021.  
+I'm finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has delayed me.  
 
 I study meta-awareness and attention for my primary PhD work. See my [about page](../about) for more on that.  
 I also study [psychedelic microdosing](https://psychedelicscience.ca) and published some of the first research on the topic. We are submitting a Clinical Trial Application to Health Canada to run research on microdosing psilocybin. I consult for [Cybin](https://cybin.com), a biotech company focused on psychedelics therapeutics.
