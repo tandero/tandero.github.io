@@ -15,7 +15,7 @@ weight = "1"
 I'm finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has delayed me.  
 
 I study meta-awareness and attention for my primary PhD work. See my [about page](../about) for more on that.  
-I also study [psychedelic microdosing](https://psychedelicscience.ca) and published some of the first research on the topic. We are submitting a Clinical Trial Application to Health Canada to run research on microdosing psilocybin. I consult for [Cybin](https://cybin.com), a biotech company focused on psychedelics therapeutics.
+I also study [psychedelic microdosing](https://psychedelicscience.ca) and published some of the first research on the topic. I helped co-found the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/)at the University of Toronto and we submitted a Clinical Trial Application to Health Canada to run research on microdosing psilocybin. 
 
 I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) in December 2019 where I talk about microdosing and meditation, another area of my research.
 
