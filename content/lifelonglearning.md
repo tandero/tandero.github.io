@@ -13,17 +13,16 @@ I've been learning through [The Great Courses](https://www.thegreatcourses.com/)
 
 #### Recently completed
 
+* [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)
+* [Adobe InDesign](https://youtu.be/RXRT3dHu6_o) and [Adobe Illustraitor](https://youtu.be/Ib8UBwu3yGA) via [BYOL](https://www.bringyourownlaptop.com/)
 * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/) (Coursera)
 * [Understanding Investments](https://www.thegreatcourses.com/courses/understanding-investments.html)
 * [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?) (Coursera)
 * [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions) (Coursera)
-* Capitalism versus Socialism: Comparing Economic Systems
-* Barbarian Empires of the Steppes
-* Modern Intellectual Tradition - From Descartes to Derrida
-* Great Thinkers, Great Theorems
 
 #### Philosophy
 
+* Modern Intellectual Tradition - From Descartes to Derrida
 * Consciousness and Its Implications
 * Argumentation - The Study of Effective Reasoning
 * Existentialism And The Meaning Of Life
@@ -48,6 +47,7 @@ I've been learning through [The Great Courses](https://www.thegreatcourses.com/)
 
 #### Science, Technology, Engineering, Math, and Medicine
 
+* Great Thinkers, Great Theorems (Mathematics)
 * Physics And Our Universe How It All Works
 * Understanding the Science for Tomorrow
 * Secrets of Sleep Science
@@ -74,6 +74,8 @@ I've been learning through [The Great Courses](https://www.thegreatcourses.com/)
 
 #### History
 
+* Capitalism versus Socialism: Comparing Economic Systems
+* Barbarian Empires of the Steppes
 * The Persian Empire
 * Rome and the Barbarians
 * World of Byzantium
