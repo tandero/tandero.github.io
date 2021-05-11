@@ -14,7 +14,7 @@ weight = "4"
 What should I be asking that I wouldn't know to ask?  
 What should I be doing to get ahead that I'm probably not doing?
 
-## I'm in undergrad and I want to study psychology.  
+## I want to study psychology.  
 
 They don't tell you that academia is an apprenticeship model.
 
@@ -28,14 +28,15 @@ Most psychology people don't really understand statistics. You can stand out by 
 Take an online course to learn the basics of statistical analysis using R. There are a lot of good courses on Data Science that will teach you introductory R using RStudio. Ideally, use an elective or two for genuine introductory programming courses at your universtiy. They will teach you the basics of using an Integrated Development Environment (IDE), if...then statements, for loops, and making functions. Maybe you'll discover you enjoy it!  
 Read papers and get skeptical. Think about how you could design a study better. Think about what flaws there are and what questions you can really answer with different designs. Try to design experiments, then think about how things could go wrong. Once you've made an impression in your lab, ask for more responsibility and ask if you can design an experiment. Work with a grad student or the PI to run your own study. [Learn about preregistration and preregister your study](https://www.youtube.com/playlist?list=PLMOU-iLiJIc0amNVabGXJ0liKwIwxqkO8). Write it up as if you're writing an article, and ideally, publish it.
 
-#### Learn to write well and present confidently. Communication is your most transferable skill.
-
-
+#### Learn to write well and present confidently. Communication is your most transferable skill.  
+Every career involves communication. [Here's a good video about writing.](https://youtu.be/vtIzMaLkCaM)  
+Do not expect to become a great writer by practice alone. To become a great writer, you need to learn about writing and care about getting better. Use every opportunity to write better: write better emails, write clearer notes, and so on.  
+Do not expect to present well by default. Strive for excellence. Learn about presentation skills and take every presentation as an opportunity to improve. Don't present as if you're talking to an irrelevant class of students; build a TED talk and deliver it to your audience. You'll start out nervous, but pick one thing to improve each time you present and improve that one thing: put less text on slides, make better transitions between slides, use more audience engagement, walk around the stage area, go 'off script' more. As you present more and more, the nerves will calm themselves.
 
 #### Content courses are probably the least valuable part of your education. Do more.
 The best they can do is inspire you because the information is going to be obsolete by the time you're done. You need to do them so get the grades, but the real education comes from volunteering, statistics and methods courses, and going out of your way to run research and make connections.
 
-## I'm in undergrad and I want to study psychedelics.
+## I want to study psychedelics.
 
 Start by reading [MAPS resources for students](https://www.maps.org/resources/students). 
 
