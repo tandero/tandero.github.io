@@ -6,6 +6,7 @@ googleAnalytics = "UA-158662496-1"
 enableEmoji = true # https://www.webfx.com/tools/emoji-cheat-sheet/
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
+#library(blogdown)
 #blogdown::serve_site()
 
 [params]

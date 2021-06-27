@@ -23,7 +23,7 @@ I am developing neuroanalytic methods aimed at studying meta-awareness: the mome
 
 I collect and analyze self-report, behavioural, physiological, and neuroimaging (MRI, fNIRS, EEG) data. I'm ultimately trying to model how 1.5 kg of fatty brain-tissue consciously experiences a universe, but for now I take baby steps toward answering those big questions. My PhD attempts to develop tools for modelling the neural dynamics of attention and meta-awareness: objectively quantifying the subjective.
 
-I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take particular joy in designing experiments; it is an exercise in reducing inefficiencies and I love it.
+I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take special  joy in designing [Xanatos gambit](https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit) experiments; it is an exercise in reducing inefficiencies and I love it.
 
 [Read my CV](https://1drv.ms/b/s!Avbd3naclSvRgYkflsH-JkHcCr6epQ) for the concise summary (link may not work if you're on a VPN).
 
@@ -53,7 +53,7 @@ Not that it's anyone's business, but here are a few things about me. I adore dec
 
 * I love dark chocolate, more than 85% and ideally 100%. [Chocosol](https://chocosoltraders.com/collections/shop-now/products/100-gratitude-csbar) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
-* I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I also like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
+* I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
 * I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
 * I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My four pairs have served me well.   
 * I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the K-Sabatier Authentique 1834 Ltd.  

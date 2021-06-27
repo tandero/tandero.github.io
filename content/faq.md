@@ -14,6 +14,20 @@ weight = "4"
 What should I be asking that I wouldn't know to ask?  
 What should I be doing to get ahead that I'm probably not doing?
 
+## I want to study psychedelics.
+
+Start by reading [MAPS resources for students](https://www.maps.org/resources/students). 
+
+#### There are many paths into psychedelic research.  
+Research in graduate school is one option (e.g. me). Medical school is another (our team had 4 psychiatrists). Clinical psychology is another (2 on our team). Other options include other sciences: biology, chemistry, pharmacology, neuroscience. Additionally, there's the policy and business side, administration, and public relations.  
+Learn good science. Be skeptical. Read about replicability and open science.  
+Join your local psychedelic society (or create one).
+
+#### How I got where I am:  
+A friend and colleague of mine, [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker), invited me to a new journal club of psychiatrists and academics interested in psychedelics. He realized we were on the rising edge of something and his ambition was the spark that lit the flame. We held a meeting for people explicitly interested in doing psychedelic research, then my work ethic fanned that flame into a fire. We didn't ask if we could: we did.  
+Granted, we had to get research ethics approval, and I was already a PhD student doing my own research so that was something I knew how to do, but there are ways. Learn good science and find your way.
+
+
 ## I want to study psychology.  
 
 They don't tell you that academia is an apprenticeship model.
@@ -25,7 +39,7 @@ Volunteering and talking with graduate students will also give you an idea of wh
 
 #### Learn statistics, R or Python programming, and experimental design. Understand methods.  
 Most psychology people don't really understand statistics. You can stand out by making sure you understand. I give all my RAs these two courses to do: [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?) and [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions).  
-Take an online course to learn the basics of statistical analysis using R. There are a lot of good courses on Data Science that will teach you introductory R using RStudio. Ideally, use an elective or two for genuine introductory programming courses at your universtiy. They will teach you the basics of using an Integrated Development Environment (IDE), if...then statements, for loops, and making functions. Maybe you'll discover you enjoy it!  
+Take an online course to learn the basics of statistical analysis using R. There are a lot of good courses on Data Science that will teach you introductory R using RStudio. Ideally, use an elective or two for genuine introductory programming courses at your university. They will teach you the basics of using an Integrated Development Environment (IDE), if...then statements, for loops, and making functions. Maybe you'll discover you enjoy it!  
 Read papers and get skeptical. Think about how you could design a study better. Think about what flaws there are and what questions you can really answer with different designs. Try to design experiments, then think about how things could go wrong. Once you've made an impression in your lab, ask for more responsibility and ask if you can design an experiment. Work with a grad student or the PI to run your own study. [Learn about preregistration and preregister your study](https://www.youtube.com/playlist?list=PLMOU-iLiJIc0amNVabGXJ0liKwIwxqkO8). Write it up as if you're writing an article, and ideally, publish it.
 
 #### Learn to write well and present confidently. Communication is your most transferable skill.  
@@ -35,19 +49,6 @@ Do not expect to present well by default. Strive for excellence. Learn about pre
 
 #### Content courses are probably the least valuable part of your education. Do more.
 The best they can do is inspire you because the information is going to be obsolete by the time you're done. You need to do them so get the grades, but the real education comes from volunteering, statistics and methods courses, and going out of your way to run research and make connections.
-
-## I want to study psychedelics.
-
-Start by reading [MAPS resources for students](https://www.maps.org/resources/students). 
-
-#### There are many paths into psychedelic research.  
-Research in graduate school is one option (e.g. me). Medical school is another (our team had 4 psychiatrists). Clinical psychology is another (2 on our team). Other options include other sciences: biology, chemistry, pharmacology, neuroscience. Additionally, there's the policy and business side, administration, and public relations.  
-Learn good science. Be skeptical. Read about replicability and open science.  
-Join your local psychedelic society (or create one).
-
-#### How I got where I am:  
-A friend and colleage of mine, [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker), invited me to a new journal club of psychiatrists and academics interested in psychedelics. He realized we were on the rising edge of something and his ambition was the spark that lit the flame. We held a meeting for people explicitly interested in doing psychedelic research, then my work ethic fanned that flame into a fire. We didn't ask if we could: we did.  
-Granted, we had to get research ethics approval, and I was already a PhD student doing my own research so that was something I knew how to do, but there are ways. Learn good science and find your way.
 
 ### Best of luck!
 

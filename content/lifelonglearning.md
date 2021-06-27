@@ -9,10 +9,12 @@ weight = "3"
 
 ### The Great Courses
 
-I've been learning through [The Great Courses](https://www.thegreatcourses.com/) for about a decade. I've done over 50 courses lasting over 500 hours. Learning is a deep passion of mine.
+In addition to my formal academic studies, I've been learning through [The Great Courses](https://www.thegreatcourses.com/) for about a decade. I've done over 50 courses lasting over 500 hours. Learning is a deep passion of mine.
 
 #### Recently completed
 
+* [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](https://www.thegreatcourses.com/courses/transformational-leadership-how-leaders-change-teams-companies-and-organizations.html)
+* [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)
 * [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)
 * [Adobe InDesign](https://youtu.be/RXRT3dHu6_o) and [Adobe Illustraitor](https://youtu.be/Ib8UBwu3yGA) via [BYOL](https://www.bringyourownlaptop.com/)
 * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/) (Coursera)

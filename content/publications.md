@@ -15,6 +15,6 @@ Find my publications on [Google Scholar](https://scholar.google.com/citations?us
 
 If you don't have access and want a copy, [email me](mailto:thomas.anderson@radlab.zone) and I'll send it to you. 
 
-If you don't want to get in touch personally, you can circumvent the barriers with [sci-hub](https://sci-hub.se/).
+If you don't want to get in touch personally, you can circumvent some barriers with [sci-hub](https://sci-hub.se/).
 
 Let technology work for you!
