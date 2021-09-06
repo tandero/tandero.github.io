@@ -24,7 +24,7 @@ Learn good science. Be skeptical. Read about replicability and open science.
 Join your local psychedelic society (or create one).
 
 #### How I got where I am:  
-A friend and colleague of mine, [Rotem Petranker](https://www.researchgate.net/profile/Rotem_Petranker), invited me to a new journal club of psychiatrists and academics interested in psychedelics. He realized we were on the rising edge of something and his ambition was the spark that lit the flame. We held a meeting for people explicitly interested in doing psychedelic research, then my work ethic fanned that flame into a fire. We didn't ask if we could: we did.  
+A friend and colleague of mine, [Rotem Petranker](https://www.petranker.com/), invited me to a new journal club of psychiatrists and academics interested in psychedelics. He realized we were on the rising edge of something and his ambition was the spark that lit the flame. We held a meeting for people explicitly interested in doing psychedelic research, then my work ethic fanned that flame into a fire. We didn't ask if we could: we did.  
 Granted, we had to get research ethics approval, and I was already a PhD student doing my own research so that was something I knew how to do, but there are ways. Learn good science and find your way.
 
 
