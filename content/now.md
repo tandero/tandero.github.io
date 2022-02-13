@@ -29,6 +29,5 @@ I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditatio
 
 * [Adobe Premier Pro](https://youtu.be/MqwlW76sFCM) via [BYOL](https://www.bringyourownlaptop.com/)
 * [How to Listen To and Understand Great Music](https://robertgreenbergmusic.com/download/listen-understand-great-music/) (second listen-through)
-* [The 23 Greatest Solo Piano Works](https://robertgreenbergmusic.com/download/23-greatest-solo-piano-works/)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Coursera)
 * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/) (Coursera)

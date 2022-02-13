@@ -2,7 +2,7 @@
 type = "static"
 page = "static/single.html"
 title = "Lifelong Learning"
-description = "I learn a lot of stuff and I also have opinions"
+description = "I learn a lot of stuff"
 menu = "main"
 weight = "3"
 +++
@@ -13,6 +13,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Recently completed
 
+* [The 23 Greatest Solo Piano Works](https://robertgreenbergmusic.com/download/23-greatest-solo-piano-works/)
 * [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](https://www.thegreatcourses.com/courses/transformational-leadership-how-leaders-change-teams-companies-and-organizations.html)
 * [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)
 * [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)

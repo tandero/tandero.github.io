@@ -51,18 +51,18 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 
 Not that it's anyone's business, but here are a few things about me. I adore decadence.
 
-* I love dark chocolate, more than 85% and ideally 100%. [Chocosol](https://chocosoltraders.com/collections/shop-now/products/100-gratitude-csbar) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
+* I love dark chocolate (over 85%). [Chocosol](https://chocosoltraders.com/collections/shop-now/products/100-gratitude-csbar) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
 * I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
 * I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
-* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My four pairs have served me well.   
-* I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the K-Sabatier Authentique 1834 Ltd.  
-* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [NordVPN](https://nordvpn.com/).  
+* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My five pairs have served me well.   
+* I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the [K-Sabatier Authentique 1834 Ltd.](https://hacherandkrain.com/product-category/philippe-sabatier/1834-collection/)  
+* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [ProtonVPN](https://protonvpn.com/).  
 
 
 ### This Website
 
 This site is powered by Hugo [Minimal](https://themes.gohugo.io/minimal/) theme and made in R using the package [`blogdown`](https://bookdown.org/yihui/blogdown/). It is hosted and deployed with [Netlify](https://www.netlify.com/) and the domain was purchased through [GoDaddy](https://ca.godaddy.com/).
 
-This website was inspired by [Derek Sivers](https://sivers.org/)' website and the code was based on [Hause Lin](https://hauselin.com)'s website. Hause is a friend and colleague of mine who does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools. 
+This website design was inspired by [Derek Sivers](https://sivers.org/)' website and the code was based on a previous version of [Hause Lin](https://hauselin.com)'s website. Hause is a friend and colleague of mine who does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools. 
 
