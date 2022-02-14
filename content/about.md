@@ -55,7 +55,7 @@ Not that it's anyone's business, but here are a few things about me. I adore dec
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
 * I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
 * I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
-* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My five pairs have served me well.   
+* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My four pairs have served me well.   
 * I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the [K-Sabatier Authentique 1834 Ltd.](https://hacherandkrain.com/product-category/philippe-sabatier/1834-collection/)  
 * I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [ProtonVPN](https://protonvpn.com/).  
 
