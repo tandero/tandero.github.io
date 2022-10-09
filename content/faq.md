@@ -16,7 +16,7 @@ What should I be doing to get ahead that I'm probably not doing?
 
 ## I want to study psychedelics.
 
-Start by reading [MAPS resources for students](https://www.maps.org/resources/students). 
+Start by reading [MAPS resources for students](https://maps.org/take-action/resources/). 
 
 #### There are many paths into psychedelic research.  
 Research in graduate school is one option (e.g. me). Medical school is another (our team had 4 psychiatrists). Clinical psychology is another (2 on our team). Other options include other sciences: biology, chemistry, pharmacology, neuroscience. Additionally, there's the policy and business side, administration, and public relations.  
