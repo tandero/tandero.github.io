@@ -12,7 +12,8 @@ weight = "1"
 
 <!-- <img align="right" width="300" height="300" src="../attachments/Icon.jpg"> Comment --> 
 
-I'm finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has introduced delays.  
+I was finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has introduced delays.  
+Unfortunately, I fell ill and have been on medical leave since January 2021. My life is functionally on hold until my health improves.  
 
 I study meta-awareness and attention for my primary PhD work. See my [about page](../about) for more on that.  
 
