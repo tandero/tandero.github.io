@@ -2,26 +2,36 @@
 type = "static"
 page = "static/single.html"
 title = "Lifelong Learning"
-description = "I learn a lot of stuff"
+description = "I love to read and I learn a lot of stuff"
 menu = "main"
 weight = "3"
 +++
 
-### The Great Courses
+### Books - Recently completed  
 
-In addition to my formal academic studies, I've been learning through [The Great Courses](https://www.thegreatcourses.com/) for about a decade. I've done over 50 courses lasting over 500 hours. Learning is a deep passion of mine.
+#### Non-Fiction  
+
+* Edward Bernays - Propaganda  
+* Eugen Herrigel - Zen in the Art of Archery
+* Terence Real - Fierce Intimacy  
+* Yanis Varoufakis - Technofeudalism  
+* Richard Feynman - Perfectly Reasonable Deviations From the Beaten Track
+
+#### Fiction  
+
+* Hugh Howey - Wool    
+* Haruki Murakami - Hard-boiled Wonderland and the End of the World (second reading)    
+* Cormac McCarthy - Blood Meridian  
+* Umberto Eco - The Name of the Rose  
+* Stendhal - The Charterhouse of Parma  
+
+### Courses  
+
+In addition to my formal academic studies, I've been learning through [The Great Courses](https://www.thegreatcourses.com/) (aka *The Teaching Company*) for over fifteen years. I've done over 50 courses lasting over 500 hours. Learning is a deep passion of mine.
 
 #### Recently completed
 
-* [The 23 Greatest Solo Piano Works](https://robertgreenbergmusic.com/download/23-greatest-solo-piano-works/)
-* [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](https://www.thegreatcourses.com/courses/transformational-leadership-how-leaders-change-teams-companies-and-organizations.html)
-* [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)
-* [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)
-* [Adobe InDesign](https://youtu.be/RXRT3dHu6_o) and [Adobe Illustraitor](https://youtu.be/Ib8UBwu3yGA) via [BYOL](https://www.bringyourownlaptop.com/)
-* [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/) (Coursera)
-* [Understanding Investments](https://www.thegreatcourses.com/courses/understanding-investments.html)
-* [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?) (Coursera)
-* [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions) (Coursera)
+* 
 
 #### Philosophy
 
@@ -46,10 +56,15 @@ In addition to my formal academic studies, I've been learning through [The Great
 * Art of Teaching - Best Practices from a Master Educator
 * The Intelligent Brain
 * Optimizing The Brain
-* The Art of Negotiating the Best Deal
+* The Art of Negotiating the Best Deal  
+* [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)  
+* [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](https://www.thegreatcourses.com/courses/transformational-leadership-how-leaders-change-teams-companies-and-organizations.html)  
+* [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?)  
+* [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions)  
 
 #### Science, Technology, Engineering, Math, and Medicine
 
+* [Games People Play: Game Theory in Life, Business, and Beyond](https://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html)  
 * Great Thinkers, Great Theorems (Mathematics)
 * Physics And Our Universe How It All Works
 * Understanding the Science for Tomorrow
@@ -62,7 +77,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Music (courses by Robert Greenberg)
 
-* How to Listen To and Understand Great Music
+* [How to Listen To and Understand Great Music](https://robertgreenbergmusic.com/download/listen-understand-great-music/)  
 * Understanding the Fundamentals of Music
 * Bach and the High Baroque
 * Chamber Music of Mozart
@@ -74,6 +89,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 * The 30 Greatest Orchestral Works
 * The Symphony
 * Concerto
+* The 23 Greatest Solo Piano Works    
 
 #### History
 
@@ -99,12 +115,14 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Other
 
+* [Adobe Premier Pro](https://youtu.be/MqwlW76sFCM), [Adobe InDesign](https://youtu.be/RXRT3dHu6_o), and [Adobe Illustraitor](https://youtu.be/Ib8UBwu3yGA) via [BYOL](https://www.bringyourownlaptop.com/)  
 * How to Look At and Understand Great Art
 * Fundamentals of Photography
-* Espionage and Covert Operations
-* Introduction to the Study of Religion
 * Writing and Civilization
+* Introduction to the Study of Religion
 * The Everyday Guide To Wine
 * The Everyday Guide to Spirits and Cocktails
-
+* Espionage and Covert Operations  
+* [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/)  
+* [Understanding Investments](https://www.thegreatcourses.com/courses/understanding-investments.html)
 

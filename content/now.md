@@ -10,25 +10,38 @@ weight = "1"
 
 ### What do I do right now?
 
-<!-- <img align="right" width="300" height="300" src="../attachments/Icon.jpg"> Comment --> 
+I am currently on medical leave. 
 
-I was finishing my PhD at the University of Toronto. I had been aiming to graduate August 2020, but COVID has introduced delays.  
-Unfortunately, I fell ill and have been on medical leave since January 2021. My life is functionally on hold until my health improves.  
+Prior to my leave, I was finishing my PhD at the University of Toronto. I am a PhD Candidate: all I have remaining is to write and defend my dissertation.   
 
-I study meta-awareness and attention for my primary PhD work. See my [about page](../about) for more on that.  
+My PhD research focuses on meta-awareness and attention. See my [about page](../about) for more on that.  
 
-I also study psychedelics and have published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4) (more [here](https://www.researchgate.net/project/Microdosing-Psychedelics)). I co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto and we submitted a Clinical Trial Application to Health Canada to run research on psilocybin microdosing. I also co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) as a firm to consult with industry partners. 
+I also study psychedelics. I published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4). I co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) and our team ran the first Canadian Clinical Trial on psilocybin microdosing. I also co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto.   
 
-I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) in December 2019 where I talk about microdosing and about meditation, another area of my research and the topic of my Master's thesis.
+In December 2019, I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) where I spoke about my personal history with research, including my research on meditation, which was the focus of my Master's thesis.  
 
-[My CV and contact info are here](https://1drv.ms/b/s!Avbd3naclSvRgYkflsH-JkHcCr6epQ). Feel free to reach out.
+Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g).  
 
 <!--### Where am I headed tomorrow? -->
 
 
-### Courses I'm currently engaging
+### Content I'm currently enjoying  
 
-* [Adobe Premier Pro](https://youtu.be/MqwlW76sFCM) via [BYOL](https://www.bringyourownlaptop.com/)
-* [How to Listen To and Understand Great Music](https://robertgreenbergmusic.com/download/listen-understand-great-music/) (second listen-through)
-* [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Coursera)
-* [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/) (Coursera)
+#### Books - Fiction  
+
+* Fyodor Sologub - The Petty Demon  
+* Laurence Sterne - Tristram Shandy  
+* Joe Abercrombie - The Blade Itself
+* Norm Macdonald - Based on a True Story  
+* Vladimir Nabokov - Pnin  
+
+#### Books - Non-Fiction  
+
+* Tim Ferriss - Tribe of Mentors  
+* Judea Pearl - Causality  
+* Mortimer Adler - How to Read a Book
+* Tom Segura - I would like to play alone please  
+
+#### Courses  
+
+* Mathematical Decision Making (Scott Stevens)
