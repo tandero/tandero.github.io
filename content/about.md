@@ -25,7 +25,7 @@ I collect and analyze self-report, behavioural, physiological, and neuroimaging 
 
 I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take special  joy in designing [Xanatos gambit](https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit) experiments; it is an exercise in reducing inefficiencies and I love it.
 
-[Read my CV](https://1drv.ms/b/s!Avbd3naclSvRgYkflsH-JkHcCr6epQ) for the concise summary (link may not work if you're on a VPN).
+[Read my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g) for the concise summary (link may not work if you're on a VPN).
 
 
 ### A brief timeline of my personal universe
