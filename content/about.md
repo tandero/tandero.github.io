@@ -13,20 +13,21 @@ Meticulous polymath
 
 ### In twenty seconds
 
-PhD candidate at the University of Toronto studying meta-awareness and attention. Co-Founder of the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) and [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) pioneering research on psychedelic microdosing. Side-projects on mediation, creativity, wisdom, and attention. Strong focus on rigour and transparency.
+PhD candidate at the University of Toronto studying meta-awareness and pioneering research on psychedelic microdosing.  
+Co-Founder of the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) and the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/).  
+Additional projects on attention, meditation, wisdom, and creativity. Strong focus on rigour and transparency.  
 
 ### In ninety seconds
 
-My PhD supervisor is [Prof. Norman Farb](https://www.utm.utoronto.ca/psychology/faculty-staff/farb-norman) in the [Regulatory and Affective Dynamics Laboratory](https://www.radlab.zone/). My PhD committee includes [Prof. Michael Inzlicht](http://michaelinzlicht.com/)  (social neuroscientist) and [Prof. Kei Fukuda](https://www.utm.utoronto.ca/psychology/faculty-staff/fukuda-keisuke) (cognitive neuroscientist).
+My PhD research is developing tools to model the neural dynamics of meta-awareness: the moment that we realize we weren't paying attention. Meta-awareness involves noticing that our behaviours are not aligned with our overall goals. For example, we may catch ourselves unintentionally mind-wandering even though our goal is to pay attention to the task at hand. My research involves neuroimaging (fMRI, fNIRS, EEG), physiological, behavioural, and self-report data.  
 
-I am developing neuroanalytic methods aimed at studying meta-awareness: the moment that we realize that our behaviours are not aligned with our overall goals. The clearest example of this is when we catch ourselves unintentionally mind-wandering even though our goal is to pay attention to the task at hand. 
+Additionally, some of my research was among the earliest academic investigations on psychedelic microdosing and our research team performed the first Clinical Trial on psychedelic microdosing approved by Health Canada.  
 
-I collect and analyze self-report, behavioural, physiological, and neuroimaging (MRI, fNIRS, EEG) data. I'm ultimately trying to model how 1.5 kg of fatty brain-tissue consciously experiences a universe, but for now I take baby steps toward answering those big questions. My PhD attempts to develop tools for modelling the neural dynamics of attention and meta-awareness: objectively quantifying the subjective.
+Refer to [my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g) for a concise summary of my background and publications (VPNs may break the link).  
+Feel free to [reach out](mailto:thomas.anderson@radlab.zone). I love to collaborate. I especially enjoy designing [Xanatos gambit](https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit) experiments.  
 
-I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.zone). Collaboration is a resource-multiplier. I take special  joy in designing [Xanatos gambit](https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit) experiments; it is an exercise in reducing inefficiencies and I love it.
-
-[Read my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g) for the concise summary (link may not work if you're on a VPN).
-
+My PhD Supervisor is [Prof. Norman Farb](https://www.utm.utoronto.ca/psychology/faculty-staff/farb-norman) in the [Regulatory and Affective Dynamics Laboratory](https://www.radlab.zone/).  
+My PhD Committee includes [Prof. Michael Inzlicht](http://michaelinzlicht.com/) and [Prof. Kei Fukuda](https://www.utm.utoronto.ca/psychology/faculty-staff/fukuda-keisuke).  
 
 ### A brief timeline of my personal universe
 
@@ -51,18 +52,18 @@ I love to collaborate so feel free to [reach out](mailto:thomas.anderson@radlab.
 
 Not that it's anyone's business, but here are a few things about me. I adore decadence.
 
-* I love dark chocolate (over 85%). [Chocosol](https://chocosoltraders.com/collections/shop-now/products/100-gratitude-csbar) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
+* I love very dark chocolate (85% and above). [Chocosol](https://chocosoltraders.com/products/100-gratitude) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
-* I wear clothing made from natural fibres like cotton, wool, bamboo, or cashmere. I find they breathe better. [Merino wool socks](https://www.greatsox.com/collections/merino) in cold Canadian winters included. I like [United Dry Stock Goods](https://unitedstockdrygoods.com/) for apparel.  
-* I order my shoes from [Carmina](https://www.carminashoemaker.com/men-shoes). I've got a great pair of boots from [Dayton](https://www.daytonboots.com/collections/men/products/service-boot).  
-* I get custom gloves made by [Chester Jeffries](https://www.chesterjefferies.co.uk/mens-leather-gloves/). My four pairs have served me well.   
+* I wear clothing made from natural fibres like cotton, silk, wool, and cashmere.  
+* I wear bespoke gloves made by Chester Jeffries, which has tragically terminated operations.  
+* I wear leather shoes and belts by [Carmina](https://www.carminashoemaker.com/). I love my tan penny loafers.  
 * I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the [K-Sabatier Authentique 1834 Ltd.](https://hacherandkrain.com/product-category/philippe-sabatier/1834-collection/)  
-* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s) (Facebook, Twitter, Instagram, etc.). I use [DuckDuckGo](https://duckduckgo.com/) instead of Google. I use [ProtonVPN](https://protonvpn.com/).  
+* I [don't use social media](https://www.youtube.com/watch?v=PMotykw0SIk&t=21m22s). I use [DuckDuckGo](https://duckduckgo.com/). I use [ProtonVPN](https://protonvpn.com/).  
 
 
 ### This Website
 
-This site is powered by Hugo [Minimal](https://themes.gohugo.io/minimal/) theme and made in R using the package [`blogdown`](https://bookdown.org/yihui/blogdown/). It is hosted and deployed with [Netlify](https://www.netlify.com/) and the domain was purchased through [GoDaddy](https://ca.godaddy.com/).
+This site is powered by an old Hugo Minimal theme and made in R using the package [`blogdown`](https://bookdown.org/yihui/blogdown/).  
+This site is hosted and deployed with [Netlify](https://www.netlify.com/) and the domain was purchased through [GoDaddy](https://ca.godaddy.com/).  
 
-This website design was inspired by [Derek Sivers](https://sivers.org/)' website and the code was based on a previous version of [Hause Lin](https://hauselin.com)'s website. Hause is a friend and colleague of mine who does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools. 
-
+This website design was inspired by [Derek Sivers](https://sivers.org/)' website and the code was based on a previous version of [Hause Lin](https://hauselin.com)'s website. Hause is a friend and colleague of mine who does great work and I personally recommend his [`hausekeep`](https://hauselin.github.io/hausekeep/) package of tools.  
