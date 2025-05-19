@@ -30,8 +30,7 @@ weight = "3"
 In addition to my formal academic studies, I've been learning through [The Great Courses](https://www.thegreatcourses.com/) (aka *The Teaching Company*) for over fifteen years. I've done over 50 courses lasting over 500 hours. Learning is a deep passion of mine.
 
 #### Recently completed
-
-* [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)  
+ 
 * [The History of Spain: Land on a Crossroad](https://www.thegreatcourses.com/courses/the-history-of-spain-land-on-a-crossroad)  
 
 #### Philosophy
