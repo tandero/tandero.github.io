@@ -31,7 +31,8 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Recently completed
 
-* 
+* [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)  
+* [The History of Spain: Land on a Crossroad](https://www.thegreatcourses.com/courses/the-history-of-spain-land-on-a-crossroad)  
 
 #### Philosophy
 
@@ -56,8 +57,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 * Art of Teaching - Best Practices from a Master Educator
 * The Intelligent Brain
 * Optimizing The Brain
-* The Art of Negotiating the Best Deal  
-* [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)  
+* The Art of Negotiating the Best Deal
 * [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](https://www.thegreatcourses.com/courses/transformational-leadership-how-leaders-change-teams-companies-and-organizations.html)  
 * [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences?)  
 * [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions)  
@@ -92,13 +92,14 @@ In addition to my formal academic studies, I've been learning through [The Great
 * The 23 Greatest Solo Piano Works    
 
 #### History
-
-* Capitalism versus Socialism: Comparing Economic Systems
-* Barbarian Empires of the Steppes
-* The Persian Empire
-* Rome and the Barbarians
-* World of Byzantium
-* Europe and Western Civilization in the Modern Age
+ 
+* [Understanding Imperial China: Dynasties, Life, and Culture](https://www.thegreatcourses.com/courses/understanding-imperial-china-dynasties-life-and-culture.html)  
+* Capitalism versus Socialism: Comparing Economic Systems  
+* Barbarian Empires of the Steppes  
+* The Persian Empire  
+* Rome and the Barbarians  
+* World of Byzantium  
+* Europe and Western Civilization in the Modern Age  
 * History of Russia
 
 #### Literature
