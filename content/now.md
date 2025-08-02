@@ -44,4 +44,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Courses  
 
-* [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)
+* Currently scouting for a course  
