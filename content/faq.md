@@ -30,7 +30,8 @@ Granted, we had to get research ethics approval, and I was already a PhD student
 
 ## I want to study psychology.  
 
-They don't tell you that academia is an apprenticeship model.
+They don't tell you that academia is an apprenticeship model.  
+For complete advice, see my [book of career advice for psychology](https://my-digital-garden-thomasandersonscience.vercel.app/).  
 
 #### Volunteer in a psychology lab at your university. Start yesterday.  
 Start working in a lab as soon as you can, then go the extra mile. Most people do enough to avoid getting noticed for being bad at what they do; your goal should be to get noticed for being excellent. When volunteering you should demonstrate engagement and do great work. Stand out. It is a fact of life that I forget most research assistants, even though I actively cultivate and mentor RAs that show initiative. Mentoring an RA is an investment and I'm only going to invest if you demonstrate that it will be worthwhile. Get to know the people in your lab. Once you've shown some good work, ask if you can join their meetings (listen, even if you don't understand).  

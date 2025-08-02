@@ -10,7 +10,8 @@ weight = "1"
 
 ### What do I do right now?
 
-I am currently on medical leave. 
+I am currently on medical leave.  
+In the meantime, I've been working on a [book of career advice for psychology](https://my-digital-garden-thomasandersonscience.vercel.app/).  
 
 Prior to my leave, I was finishing my PhD at the University of Toronto. I am a PhD Candidate: all I have remaining is to write and defend my dissertation.   
 
