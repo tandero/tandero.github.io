@@ -11,6 +11,9 @@ weight = "3"
 
 #### Non-Fiction  
 
+* Tim Ferriss - Tribe of Mentors  
+* Mortimer Adler - How to Read a Book
+* Tom Segura - I would like to play alone please  
 * Edward Bernays - Propaganda  
 * Eugen Herrigel - Zen in the Art of Archery
 * Terence Real - Fierce Intimacy  
@@ -19,8 +22,11 @@ weight = "3"
 
 #### Fiction  
 
-* Hugh Howey - Wool    
-* Haruki Murakami - Hard-boiled Wonderland and the End of the World (second reading)    
+* Fyodor Sologub - The Petty Demon  
+* Joe Abercrombie - The Blade Itself, Before They Are Hanged    
+* Norm Macdonald - Based on a True Story  
+* Hugh Howey - Wool  
+* Haruki Murakami - Hard-boiled Wonderland and the End of the World (second reading)  
 * Cormac McCarthy - Blood Meridian  
 * Umberto Eco - The Name of the Rose  
 * Stendhal - The Charterhouse of Parma  
@@ -31,6 +37,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Recently completed
  
+* [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)  
 * [The History of Spain: Land on a Crossroad](https://www.thegreatcourses.com/courses/the-history-of-spain-land-on-a-crossroad)  
 
 #### Philosophy
