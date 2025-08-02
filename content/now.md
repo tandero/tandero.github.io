@@ -10,7 +10,7 @@ weight = "1"
 
 ### What do I do right now?
 
-I am currently on medical leave. 
+I am currently on medical leave. I've been working on a [book of psychology career advice](https://my-digital-garden-thomasandersonscience.vercel.app/). 
 
 Prior to my leave, I was finishing my PhD at the University of Toronto. I am a PhD Candidate: all I have remaining is to write and defend my dissertation.   
 
@@ -29,19 +29,16 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Fyodor Sologub - The Petty Demon  
+* Cormac McCarthy - The Road
+* China Miéville - The City & the City
 * Laurence Sterne - Tristram Shandy  
-* Joe Abercrombie - The Blade Itself
-* Norm Macdonald - Based on a True Story  
-* Vladimir Nabokov - Pnin  
 
 #### Books - Non-Fiction  
 
-* Tim Ferriss - Tribe of Mentors  
+* Betty Edwards - Drawing on the right side of the brain  
+* Michel de Montaigne - Essays  
 * Judea Pearl - Causality  
-* Mortimer Adler - How to Read a Book
-* Tom Segura - I would like to play alone please  
 
 #### Courses  
 
-* [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)
+
