@@ -30,18 +30,16 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Fyodor Sologub - The Petty Demon  
+* Antoine de Saint-Exupéry - Wind, Sand and Stars  
+* Cormac McCarthy - The Road  
+* China Miéville - The City & the city  
 * Laurence Sterne - Tristram Shandy  
-* Joe Abercrombie - The Blade Itself
-* Norm Macdonald - Based on a True Story  
-* Vladimir Nabokov - Pnin  
 
 #### Books - Non-Fiction  
 
-* Tim Ferriss - Tribe of Mentors  
+* Michel de Montaigne - Essays  
+* Betty Edwards - Drawing on the Right Side of the Brain  
 * Judea Pearl - Causality  
-* Mortimer Adler - How to Read a Book
-* Tom Segura - I would like to play alone please  
 
 #### Courses  
 
