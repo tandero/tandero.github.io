@@ -12,7 +12,8 @@ weight = "3"
 #### Non-Fiction  
 
 * Tim Ferriss - Tribe of Mentors  
-* Mortimer Adler - How to Read a Book
+* Mortimer Adler - How to Read a Book  
+* Betty Edwards - Drawing on the Right Side of the Brain  
 * Tom Segura - I would like to play alone please  
 * Edward Bernays - Propaganda  
 * Eugen Herrigel - Zen in the Art of Archery
@@ -22,6 +23,9 @@ weight = "3"
 
 #### Fiction  
 
+* Antoine de Saint-Exupéry - Wind, Sand and Stars  
+* Glen Duncan - Talulla Rising  
+* Cormac McCarthy - The Road  
 * Fyodor Sologub - The Petty Demon  
 * Joe Abercrombie - The Blade Itself, Before They Are Hanged    
 * Norm Macdonald - Based on a True Story  

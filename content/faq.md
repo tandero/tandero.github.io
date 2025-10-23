@@ -9,6 +9,8 @@ weight = "4"
 
 <!-- Comment --> 
 
+In December 2019, I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) where I spoke about my personal history with research, including my research on meditation, which was the focus of my Master's thesis.  
+
 ### Questions I love
 
 What should I be asking that I wouldn't know to ask?  

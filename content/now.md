@@ -11,36 +11,41 @@ weight = "1"
 ### What do I do right now?
 
 I am currently on medical leave.  
-In the meantime, I've been working on a [book of career advice for psychology](https://my-digital-garden-thomasandersonscience.vercel.app/).  
+I recently published an online book of [career advice for academic psychology](https://my-digital-garden-thomasandersonscience.vercel.app/).  
 
-Prior to my leave, I was finishing my PhD at the University of Toronto. I am a PhD Candidate: all I have remaining is to write and defend my dissertation.   
+Prior to my medical leave, I achieved candiacy in my PhD at the University of Toronto. As a PhD Candidate, all I have left is writing and defending my dissertation.  
 
 My PhD research focuses on meta-awareness and attention. See my [about page](../about) for more on that.  
 
-I also study psychedelics. I published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4). I co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) and our team ran the first Canadian Clinical Trial on psilocybin microdosing. I also co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto.   
-
-In December 2019, I did [a podcast](https://anchor.fm/tick-talk/episodes/Thomas-Anderson-Meditation--Science-and-Psychedelics-ea20jm) where I spoke about my personal history with research, including my research on meditation, which was the focus of my Master's thesis.  
+I also study psychedelics. I published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4) and our team recently finished the first Canadian Clinical Trial on psilocybin microdosing. I co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://petranker.com). I also co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto.   
 
 Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g).  
 
 <!--### Where am I headed tomorrow? -->
 
 
-### Content I'm currently enjoying  
+### Content I'm currently enjoying
 
 #### Books - Fiction  
 
-* Antoine de Saint-Exupéry - Wind, Sand and Stars  
-* Cormac McCarthy - The Road  
-* China Miéville - The City & the city  
+* Charles Stross - The Fuller Memorandum  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
 * Michel de Montaigne - Essays  
-* Betty Edwards - Drawing on the Right Side of the Brain  
+* John Curtis Gowan - Education of the Ablest  
+* Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
 * Judea Pearl - Causality  
 
 #### Courses  
 
-* Currently scouting for a course  
+* Currently scouting for a new course to do  
+
+### Television  
+
+* Stargate SG-1, Seasons 1–10 (1997–2007)  
+
+
+---
+Updated 2025-10-22  

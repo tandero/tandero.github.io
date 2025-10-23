@@ -46,6 +46,7 @@ My PhD Committee includes [Prof. Michael Inzlicht](http://michaelinzlicht.com/) 
 * 2017 Begin research on psychedlic microdosing  
 * 2019 Co-found [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto  
 * 2020 Co-found [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://www.petranker.com/) 
+* 2021 Begin Medical Leave  
 
 
 ### My Personal Life
@@ -54,7 +55,7 @@ Not that it's anyone's business, but here are a few things about me. I adore dec
 
 * I love very dark chocolate (85% and above). [Chocosol](https://chocosoltraders.com/products/100-gratitude) is my daily go-to. [Sirene](https://sirenechocolate.com/products/100) is a delight.  
 * I eat ethically sourced meat. [Sanagain's Meat Locker](http://www.sanagansmeatlocker.com/) is my butcher of choice.  
-* I wear clothing made from natural fibres like cotton, silk, wool, and cashmere.  
+* I wear clothing made from natural fibres like cotton, silk, wool, and cashmere. I particularly like [Sydney's](https://shopsydneys.com/).  
 * I wear bespoke gloves made by Chester Jeffries, which has tragically terminated operations.  
 * I wear leather shoes and belts by [Carmina](https://www.carminashoemaker.com/). I love my tan penny loafers.  
 * I cut with beautiful knives from [hacher&krain](http://www.hacherandkrain.com/). My choice are the [K-Sabatier Authentique 1834 Ltd.](https://hacherandkrain.com/product-category/philippe-sabatier/1834-collection/)  
