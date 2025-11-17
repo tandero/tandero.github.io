@@ -28,19 +28,20 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Charles Stross - The Fuller Memorandum  
+* Albert Brooks - 2030 The Real Story of What Happens to America  
+* Trevanian - Shibumi  
+* Roger Zelazny - Lord of Light  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
 * Michel de Montaigne - Essays  
-* John Curtis Gowan - Education of the Ablest  
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
 * Judea Pearl - Causality  
 
 #### Courses  
 
-* Currently scouting for a new course to do  
+* [Richard McElreath - Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)  
 
 ### Television  
 
@@ -48,4 +49,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2025-10-22  
+Updated 2025-11-17  

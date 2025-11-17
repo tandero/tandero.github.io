@@ -12,6 +12,7 @@ weight = "3"
 #### Non-Fiction  
 
 * Tim Ferriss - Tribe of Mentors  
+* John Curtis Gowan - Education of the Ablest  
 * Mortimer Adler - How to Read a Book  
 * Betty Edwards - Drawing on the Right Side of the Brain  
 * Tom Segura - I would like to play alone please  
@@ -27,7 +28,8 @@ weight = "3"
 * Glen Duncan - Talulla Rising  
 * Cormac McCarthy - The Road  
 * Fyodor Sologub - The Petty Demon  
-* Joe Abercrombie - The Blade Itself, Before They Are Hanged    
+* Charles Stross - The Fuller Memorandum  
+* Joe Abercrombie - The Blade Itself, Before They Are Hanged, The Last Argument of Kings  
 * Norm Macdonald - Based on a True Story  
 * Hugh Howey - Wool  
 * Haruki Murakami - Hard-boiled Wonderland and the End of the World (second reading)  
