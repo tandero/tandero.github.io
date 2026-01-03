@@ -27,10 +27,9 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 ### Content I'm currently enjoying
 
 #### Books - Fiction  
-
-* Albert Brooks - 2030 The Real Story of What Happens to America  
-* Trevanian - Shibumi  
+  
 * Roger Zelazny - Lord of Light  
+* S. A. Cosby - King of Ashes  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  

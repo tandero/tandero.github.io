@@ -12,7 +12,7 @@ weight = "3"
 #### Non-Fiction  
 
 * Tim Ferriss - Tribe of Mentors  
-* John Curtis Gowan - Education of the Ablest  
+* John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
 * Betty Edwards - Drawing on the Right Side of the Brain  
 * Tom Segura - I would like to play alone please  
