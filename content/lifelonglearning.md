@@ -25,6 +25,8 @@ weight = "3"
 #### Fiction  
 
 * Antoine de Saint-Exupéry - Wind, Sand and Stars  
+* Roger Zelazny - Lord of Light  
+* S. A. Cosby - King of Ashes  
 * Glen Duncan - Talulla Rising  
 * Cormac McCarthy - The Road  
 * Fyodor Sologub - The Petty Demon  
