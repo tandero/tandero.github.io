@@ -1,0 +1,64 @@
+:root {
+    --accent: #c4525c;
+    --border-width: 3px;
+}
+
+html, body {
+    background-color: #151515;
+    color: #fdfdfd;
+}
+
+/* Navigation */
+.navbar.navbar-default {
+    background-color: #151515;
+    border-color: transparent;
+    border-top: 3px solid #c4525c;
+}
+
+.navbar.navbar-default .navbar-nav > li > a {
+    color: #fdfdfd;
+}
+
+.navbar.navbar-default .navbar-nav > li > a:hover {
+    color: #c4525c;
+}
+
+.navbar.navbar-default .navbar-brand {
+    color: #fdfdfd;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fdfdfd;
+}
+
+/* Headings */
+.intro > h1 {
+    color: #fdfdfd;
+}
+
+.intro > h2 {
+    color: #dfdfdf;
+}
+
+/* Links */
+a:link, a:visited {
+    color: #c4525c;
+}
+
+a:hover {
+    color: #8a4edf !important;
+}
+
+/* Footer */
+footer {
+    background-color: #151515;
+    color: #dfdfdf;
+    border-bottom: 3px solid #c4525c;
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #1e1e1e;
+    color: #fdfdfd;
+    border-color: #333333;
+}

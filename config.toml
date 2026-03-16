@@ -15,11 +15,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     githubUsername = "tandero"
     accent = "#c4525c"  
     showBorder = true
-    backgroundColor = "white"
+    backgroundColor = "#151515"
     font = "EB Garamond" # should match the name on Google Fonts! "Lato"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r", "python"]
+    css = ["css/custom.css"]
 
 # https://gohugo.io/content-management/formats/#blackfriday-options
 #[blackfriday] # https://discourse.gohugo.io/t/solved-how-to-prevent-a-text-character-from-being-transformed/13850/3
