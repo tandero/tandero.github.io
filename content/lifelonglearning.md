@@ -26,6 +26,7 @@ weight = "3"
 
 * Antoine de Saint-Exupéry - Wind, Sand and Stars  
 * Roger Zelazny - Lord of Light  
+* Fyodor Dostoyevsky - The Double  
 * S. A. Cosby - King of Ashes  
 * Glen Duncan - Talulla Rising  
 * Cormac McCarthy - The Road  

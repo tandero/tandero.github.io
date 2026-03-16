@@ -28,16 +28,17 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
   
-* Fyodor Dostoyevsky - The Double  
 * Joseph Heller - Catch-22  
+* Glen Duncan - By Blood We Live  
+* Toshikazu Kawaguchi - Before the Coffee Gets Cold  
 * Amor Towles - A Gentleman in Moscow  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
 * Michel de Montaigne - Essays  
-* Teaching at Its Best by Linda B. Nilson  
 * How Learning Works by Susan A. Ambrose et. al  
+* Teaching at Its Best by Linda B. Nilson
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
 * Judea Pearl - Causality  
 
@@ -45,9 +46,7 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 * [Richard McElreath - Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)  
 
-### Television  
 
-* Stargate SG-1, Seasons 1–10 (1997–2007)  
 
 
 ---
