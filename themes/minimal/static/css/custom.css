@@ -8,6 +8,14 @@ html, body {
     color: #fdfdfd;
 }
 
+body, p, li, td, th {
+    color: #fdfdfd;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #c4525c;
+}
+
 /* Navigation */
 .navbar.navbar-default {
     background-color: #151515;
@@ -31,7 +39,16 @@ html, body {
     background-color: #fdfdfd;
 }
 
-/* Headings */
+/* Nav icons */
+.navbar-icon a {
+    color: #c4525c;
+}
+
+.navbar-icon a:hover {
+    color: #8a4edf !important;
+}
+
+/* Home page */
 .intro > h1 {
     color: #fdfdfd;
 }
