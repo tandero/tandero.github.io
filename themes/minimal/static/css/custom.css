@@ -5,15 +5,15 @@
 
 html, body {
     background-color: #151515;
-    color: #fdfdfd;
+    color: #fdfdfd !important;
 }
 
 body, p, li, td, th {
-    color: #fdfdfd;
+    color: #fdfdfd !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #c4525c;
+    color: #c4525c !important;
 }
 
 /* Navigation */
@@ -50,11 +50,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Home page */
 .intro > h1 {
-    color: #fdfdfd;
+    color: #fdfdfd !important;
 }
 
 .intro > h2 {
-    color: #dfdfdf;
+    color: #dfdfdf !important;
 }
 
 /* Links */
