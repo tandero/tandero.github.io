@@ -24,11 +24,12 @@ weight = "3"
 
 #### Fiction  
 
+* Joseph Heller - Catch-22  
+* Glen Duncan - Talulla Rising, By Blood We Live  
 * Antoine de Saint-Exupéry - Wind, Sand and Stars  
 * Roger Zelazny - Lord of Light  
 * Fyodor Dostoyevsky - The Double  
 * S. A. Cosby - King of Ashes  
-* Glen Duncan - Talulla Rising  
 * Cormac McCarthy - The Road  
 * Fyodor Sologub - The Petty Demon  
 * Charles Stross - The Fuller Memorandum  

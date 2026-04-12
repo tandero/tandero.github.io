@@ -28,9 +28,8 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
   
-* Joseph Heller - Catch-22  
-* Glen Duncan - By Blood We Live  
 * Toshikazu Kawaguchi - Before the Coffee Gets Cold  
+* qntm - There Is No Antimemetics Division  
 * Amor Towles - A Gentleman in Moscow  
 * Laurence Sterne - Tristram Shandy  
 
