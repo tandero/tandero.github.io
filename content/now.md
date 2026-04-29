@@ -29,7 +29,8 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 #### Books - Fiction  
   
 * Toshikazu Kawaguchi - Before the Coffee Gets Cold  
-* qntm - There Is No Antimemetics Division  
+* Fyodor Dostoevsky - Notes from the Underground (Second read)   
+* Jorge Luis Borges - The Book of Imaginary Beings  
 * Amor Towles - A Gentleman in Moscow  
 * Laurence Sterne - Tristram Shandy  
 

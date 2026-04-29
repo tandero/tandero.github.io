@@ -25,6 +25,7 @@ weight = "3"
 #### Fiction  
 
 * Joseph Heller - Catch-22  
+* [qntm - There Is No Antimemetics Division](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)  
 * Glen Duncan - Talulla Rising, By Blood We Live  
 * Antoine de Saint-Exupéry - Wind, Sand and Stars  
 * Roger Zelazny - Lord of Light  
