@@ -28,6 +28,7 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
   
+* [Jeselnik Book Club](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
 * Toshikazu Kawaguchi - Before the Coffee Gets Cold  
 * Fyodor Dostoevsky - Notes from the Underground (Second read)   
 * Jorge Luis Borges - The Book of Imaginary Beings  
