@@ -44,6 +44,8 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Courses  
 
+* Jewish Mysticism by Kalman Bland  
+* [Concert Masterworks by Robert Greenberg](https://robertgreenbergmusic.com/download/concert-masterworks/)  
 * [Richard McElreath - Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)  
 
 
