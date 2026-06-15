@@ -27,17 +27,16 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 ### Content I'm currently enjoying
 
 #### Books - Fiction  
-  
-* [Jeselnik Book Club](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+
+* Jorge Luis Borges - Labyrinths  
+* Susanna Hoffs - This Bird Has Flown  
 * Toshikazu Kawaguchi - Before the Coffee Gets Cold  
-* Fyodor Dostoevsky - Notes from the Underground (Second read)   
-* Jorge Luis Borges - The Book of Imaginary Beings  
+* Fyodor Dostoevsky - Notes from the Underground (Second read)    
 * Amor Towles - A Gentleman in Moscow  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
-* Michel de Montaigne - Essays  
 * How Learning Works by Susan A. Ambrose et. al  
 * Teaching at Its Best by Linda B. Nilson
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
@@ -53,4 +52,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-05-05  
+Updated 2026-06-14  

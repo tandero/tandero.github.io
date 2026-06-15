@@ -11,6 +11,7 @@ weight = "3"
 
 #### Non-Fiction  
 
+* Michel de Montaigne - Essays  
 * Tim Ferriss - Tribe of Mentors  
 * John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
@@ -24,10 +25,12 @@ weight = "3"
 
 #### Fiction  
 
+* [Jeselnik Book Club](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+* Jorge Luis Borges - The Book of Imaginary Beings  
 * Joseph Heller - Catch-22  
 * [qntm - There Is No Antimemetics Division](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)  
 * Glen Duncan - Talulla Rising, By Blood We Live  
-* Antoine de Saint-Exupéry - Wind, Sand and Stars  
+* Antoine de Saint-Exupéry - Wind, Sand and Stars
 * Roger Zelazny - Lord of Light  
 * Fyodor Dostoyevsky - The Double  
 * S. A. Cosby - King of Ashes  
