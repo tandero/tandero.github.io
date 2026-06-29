@@ -26,7 +26,7 @@ weight = "3"
 #### Fiction  
 
 * [Jeselnik Book Club](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
-* Jorge Luis Borges - The Book of Imaginary Beings  
+* Jorge Luis Borges - The Book of Imaginary Beings, Labyrinths  
 * Joseph Heller - Catch-22  
 * [qntm - There Is No Antimemetics Division](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)  
 * Glen Duncan - Talulla Rising, By Blood We Live  
@@ -51,6 +51,7 @@ In addition to my formal academic studies, I've been learning through [The Great
 
 #### Recently completed
  
+* Jewish Mysticism by Kalman Bland  
 * [Mathematical Decision Making: Predictive Models and Optimization](https://www.thegreatcourses.com/courses/mathematical-optimization-techniques)  
 * [The History of Spain: Land on a Crossroad](https://www.thegreatcourses.com/courses/the-history-of-spain-land-on-a-crossroad)  
 

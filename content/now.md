@@ -28,15 +28,15 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Jorge Luis Borges - Labyrinths  
 * Susanna Hoffs - This Bird Has Flown  
 * Toshikazu Kawaguchi - Before the Coffee Gets Cold  
-* Fyodor Dostoevsky - Notes from the Underground (Second read)    
-* Amor Towles - A Gentleman in Moscow  
+* Fyodor Dostoevsky - Notes from the Underground (Second read)     
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
+* Rutget Bregman - Moral Ambition  
+* Mark Pincus - Life at the Speed of Play  
 * How Learning Works by Susan A. Ambrose et. al  
 * Teaching at Its Best by Linda B. Nilson
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
@@ -44,7 +44,6 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Courses  
 
-* Jewish Mysticism by Kalman Bland  
 * [Concert Masterworks by Robert Greenberg](https://robertgreenbergmusic.com/download/concert-masterworks/)  
 * [Richard McElreath - Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)  
 
@@ -52,4 +51,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-06-14  
+Updated 2026-06-28  
