@@ -12,6 +12,7 @@ weight = "3"
 #### Non-Fiction  
 
 * Michel de Montaigne - Essays  
+* Rutget Bregman - Moral Ambition  
 * Tim Ferriss - Tribe of Mentors  
 * John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
@@ -25,10 +26,12 @@ weight = "3"
 
 #### Fiction  
 
-* [Jeselnik Book Club](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+* [Jeselnik Book Club - May 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+* Fyodor Dostoevsky - Notes from the Underground (Second read)  
 * Jorge Luis Borges - The Book of Imaginary Beings, Labyrinths  
 * Joseph Heller - Catch-22  
 * [qntm - There Is No Antimemetics Division](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)  
+* Toshikazu Kawaguchi - Before the Coffee Gets Cold  
 * Glen Duncan - Talulla Rising, By Blood We Live  
 * Antoine de Saint-Exupéry - Wind, Sand and Stars
 * Roger Zelazny - Lord of Light  

@@ -28,15 +28,15 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Susanna Hoffs - This Bird Has Flown  
-* Toshikazu Kawaguchi - Before the Coffee Gets Cold  
-* Fyodor Dostoevsky - Notes from the Underground (Second read)     
+* [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
+* Susanna Hoffs - This Bird Has Flown
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
 
-* Rutget Bregman - Moral Ambition  
 * Mark Pincus - Life at the Speed of Play  
+* Soni and Goodman - A Mind at Play Claude Shannon Biography  
+* Dylan Tuccillo - A Field Guide to Lucid Dreaming  
 * How Learning Works by Susan A. Ambrose et. al  
 * Teaching at Its Best by Linda B. Nilson
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
@@ -51,4 +51,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-06-28  
+Updated 2026-07-07  
