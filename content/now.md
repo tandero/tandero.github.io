@@ -29,7 +29,7 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 #### Books - Fiction  
 
 * [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
-* Susanna Hoffs - This Bird Has Flown
+* Mikhail Bulgakov - The Master and Margarita  
 * Laurence Sterne - Tristram Shandy  
 
 #### Books - Non-Fiction  
@@ -51,4 +51,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-07-07  
+Updated 2026-07-08  

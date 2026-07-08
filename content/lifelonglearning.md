@@ -27,6 +27,7 @@ weight = "3"
 #### Fiction  
 
 * [Jeselnik Book Club - May 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+* Susanna Hoffs - This Bird Has Flown  
 * Fyodor Dostoevsky - Notes from the Underground (Second read)  
 * Jorge Luis Borges - The Book of Imaginary Beings, Labyrinths  
 * Joseph Heller - Catch-22  
