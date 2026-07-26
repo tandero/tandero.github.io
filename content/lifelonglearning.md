@@ -14,8 +14,10 @@ weight = "3"
 * Michel de Montaigne - Essays  
 * Rutget Bregman - Moral Ambition  
 * Tim Ferriss - Tribe of Mentors  
+* Mark Pincus - Life at the Speed of Play (Selected Chapters)  
 * John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
+* Tuccillo, Zeizel, and Peisel - A Field Guide to Lucid Dreaming  
 * Betty Edwards - Drawing on the Right Side of the Brain  
 * Tom Segura - I would like to play alone please  
 * Edward Bernays - Propaganda  

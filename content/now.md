@@ -29,26 +29,23 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 #### Books - Fiction  
 
 * [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
-* Mikhail Bulgakov - The Master and Margarita  
-* Laurence Sterne - Tristram Shandy  
+* Mikhail Bulgakov - The Master and Margarita
 
 #### Books - Non-Fiction  
 
-* Mark Pincus - Life at the Speed of Play  
-* Soni and Goodman - A Mind at Play Claude Shannon Biography  
-* Dylan Tuccillo - A Field Guide to Lucid Dreaming  
-* How Learning Works by Susan A. Ambrose et. al  
-* Teaching at Its Best by Linda B. Nilson
+* James Carse - Finite and Infinite Games  
+* Soni and Goodman - A Mind at Play Claude Shannon Biography   
+* Susan A. Ambrose et. al - How Learning Works  
+* Linda B. Nilson - Teaching at Its Best
 * Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
 * Judea Pearl - Causality  
 
 #### Courses  
 
-* [Concert Masterworks by Robert Greenberg](https://robertgreenbergmusic.com/download/concert-masterworks/)  
-* [Richard McElreath - Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)  
+* [Concert Masterworks by Robert Greenberg](https://robertgreenbergmusic.com/download/concert-masterworks/)
 
 
 
 
 ---
-Updated 2026-07-08  
+Updated 2026-07-26  
