@@ -17,7 +17,7 @@ Prior to my medical leave, I achieved candiacy in my PhD at the University of To
 
 My PhD research focuses on meta-awareness and attention. See my [about page](../about) for more on that.  
 
-I also study psychedelics. I published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4) and our team recently finished the first Canadian Clinical Trial on psilocybin microdosing. I co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://petranker.com). I also co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto.   
+I also study psychedelics. I published some of the [first research on psychedelic microdosing](https://doi.org/10.1186/s12954-019-0308-4) and our team has recently been publishing papers about our work: the first Canadian Clinical Trial on psilocybin microdosing. I co-founded the [Canadian Centre for Psychedelic Science](https://psychedelicscience.ca) with [Rotem Petranker](https://petranker.com). I also co-founded the [Psychedelic Studies Research Program](https://www.utm.utoronto.ca/psychedelics/) at the University of Toronto.   
 
 Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6/Qfbd3naclSsggNEwfQAAAAAAl2PoEojby9Yz-g).  
 
@@ -28,16 +28,17 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
+* [Jeselnik Book Club - September 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Emily St John Mandel - The Glass Hotel  
 * Mikhail Bulgakov - The Master and Margarita
 
 #### Books - Non-Fiction  
-
-* James Carse - Finite and Infinite Games  
-* Soni and Goodman - A Mind at Play Claude Shannon Biography   
+ 
+* Soni and Goodman - A Mind at Play (Claude Shannon Biography)  
+* Ananyo Bhattacharya - The Man from the Future (John von Neumann Biography)  
+* Reid Hoffman - Superagency  
 * Susan A. Ambrose et. al - How Learning Works  
-* Linda B. Nilson - Teaching at Its Best
-* Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind  
+* Linda B. Nilson - Teaching at Its Best  
+* William J. Gilbert - An Introduction to Mathematical Thinking: Algebra and Number Systems  
 * Judea Pearl - Causality  
 
 #### Courses  
@@ -48,4 +49,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-07-26  
+Updated 2026-10-02

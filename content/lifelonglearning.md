@@ -28,6 +28,7 @@ weight = "3"
 
 #### Fiction  
 
+* [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
 * [Jeselnik Book Club - May 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
 * Susanna Hoffs - This Bird Has Flown  
 * Fyodor Dostoevsky - Notes from the Underground (Second read)  
