@@ -13,8 +13,11 @@ weight = "3"
 
 * Michel de Montaigne - Essays  
 * Rutget Bregman - Moral Ambition  
-* Tim Ferriss - Tribe of Mentors  
+* Soni and Goodman - A Mind at Play (Claude Shannon Biography)  
+* Ananyo Bhattacharya - The Man from the Future (John von Neumann Biography)  
 * Mark Pincus - Life at the Speed of Play (Selected Chapters)  
+* Reid Hoffman - Superagency  
+* Tim Ferriss - Tribe of Mentors  
 * John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
 * Tuccillo, Zeizel, and Peisel - A Field Guide to Lucid Dreaming  
@@ -28,9 +31,11 @@ weight = "3"
 
 #### Fiction  
 
+* [Jeselnik Book Club - September 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Emily St John Mandel - The Glass Hotel  
 * [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
 * [Jeselnik Book Club - May 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
 * Susanna Hoffs - This Bird Has Flown  
+* Mikhail Bulgakov - The Master and Margarita  
 * Fyodor Dostoevsky - Notes from the Underground (Second read)  
 * Jorge Luis Borges - The Book of Imaginary Beings, Labyrinths  
 * Joseph Heller - Catch-22  
