@@ -12,48 +12,44 @@ weight = "3"
 #### Non-Fiction  
 
 * Michel de Montaigne - Essays  
+* Tom Segura - I would like to play alone please  
+* Margaret Price - Crip Spacetime: Access, Failure, and Accountability in Academic Life  
 * Rutget Bregman - Moral Ambition  
+* Reid Hoffman - Superagency  
 * Soni and Goodman - A Mind at Play (Claude Shannon Biography)  
 * Ananyo Bhattacharya - The Man from the Future (John von Neumann Biography)  
-* Mark Pincus - Life at the Speed of Play (Selected Chapters)  
-* Reid Hoffman - Superagency  
+* Mark Pincus - Life at the Speed of Play (Selected Chapters)
 * Tim Ferriss - Tribe of Mentors  
 * John Curtis Gowan - Educating the Ablest, Development of the Psychedelic Individual, and Creativity: Its Educational Implications  
 * Mortimer Adler - How to Read a Book  
-* Tuccillo, Zeizel, and Peisel - A Field Guide to Lucid Dreaming  
-* Betty Edwards - Drawing on the Right Side of the Brain  
-* Tom Segura - I would like to play alone please  
 * Edward Bernays - Propaganda  
-* Eugen Herrigel - Zen in the Art of Archery
-* Terence Real - Fierce Intimacy  
 * Yanis Varoufakis - Technofeudalism  
-* Richard Feynman - Perfectly Reasonable Deviations From the Beaten Track
+* Tuccillo, Zeizel, and Peisel - A Field Guide to Lucid Dreaming  
+* Betty Edwards - Drawing on the Right Side of the Brain
+* Eugen Herrigel - Zen in the Art of Archery  
+* Terence Real - Fierce Intimacy  
+* Richard Feynman - Perfectly Reasonable Deviations From the Beaten Track  
 
 #### Fiction  
 
-* [Jeselnik Book Club - September 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Emily St John Mandel - The Glass Hotel  
-* [Jeselnik Book Club - July 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): Don Winslow - Savages  
-* [Jeselnik Book Club - May 2026](https://anthonyjeselnik.com/the-jeselnik-book-club): John Williams - Stoner  
+* Glen Duncan - Talulla Rising; By Blood We Live; Death Of An Ordinary Man  
+* [*Jeselnik Book Club*](https://anthonyjeselnik.com/the-jeselnik-book-club):John Williams - Stoner; Don Winslow - Savages; Emily St John Mandel - The Glass Hotel  
 * Susanna Hoffs - This Bird Has Flown  
 * Mikhail Bulgakov - The Master and Margarita  
-* Fyodor Dostoevsky - Notes from the Underground (Second read)  
-* Jorge Luis Borges - The Book of Imaginary Beings, Labyrinths  
+* Fyodor Dostoevsky - Notes from the Underground (second reading); The Double  
+* Jorge Luis Borges - The Book of Imaginary Beings; Labyrinths  
 * Joseph Heller - Catch-22  
 * [qntm - There Is No Antimemetics Division](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)  
-* Toshikazu Kawaguchi - Before the Coffee Gets Cold  
-* Glen Duncan - Talulla Rising, By Blood We Live  
-* Antoine de Saint-Exupéry - Wind, Sand and Stars
-* Roger Zelazny - Lord of Light  
-* Fyodor Dostoyevsky - The Double  
-* S. A. Cosby - King of Ashes  
-* Cormac McCarthy - The Road  
+* Toshikazu Kawaguchi - Before the Coffee Gets Cold
+* Antoine de Saint-Exupéry - Wind Sand and Stars
+* Roger Zelazny - Lord of Light
+* Cormac McCarthy - Blood Meridian; The Road  
+* S. A. Cosby - King of Ashes   
 * Fyodor Sologub - The Petty Demon  
 * Charles Stross - The Fuller Memorandum  
-* Joe Abercrombie - The Blade Itself, Before They Are Hanged, The Last Argument of Kings  
+* Joe Abercrombie - The Blade Itself; Before They Are Hanged; The Last Argument of Kings  
 * Norm Macdonald - Based on a True Story  
-* Hugh Howey - Wool  
 * Haruki Murakami - Hard-boiled Wonderland and the End of the World (second reading)  
-* Cormac McCarthy - Blood Meridian  
 * Umberto Eco - The Name of the Rose  
 * Stendhal - The Charterhouse of Parma  
 

@@ -28,13 +28,13 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 #### Books - Fiction  
 
-* Glen Duncan - Death Of An Ordinary Man  
 * Ann Leckie - Provenance  
 * Osamu Dazai - No Longer Human  
 
 #### Books - Non-Fiction  
  
-* Margaret Price - Crip Spacetime: Access, Failure, and Accountability in Academic Life  
+* Don Norman - The Design of Everyday Things  
+* Yiyun Li - Things In Nature Merely Grow  
 * Susan A. Ambrose et. al - How Learning Works  
 * Linda B. Nilson - Teaching at Its Best  
 * William J. Gilbert - An Introduction to Mathematical Thinking: Algebra and Number Systems  
@@ -48,4 +48,4 @@ Feel free to reach out or check out [my CV](https://1drv.ms/b/c/d12b959c76deddf6
 
 
 ---
-Updated 2026-10-02
+Updated 2026-11-28
